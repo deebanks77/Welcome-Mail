@@ -12,11 +12,11 @@ function Footer() {
     <footer className="footer">
       <p>Follow US ON SOCIAL MEDIA</p>
       <div className="socialIcons">
-        <FaInstagram />
-        <FaTwitter />
-        <FaLinkedin />
-        <FaFacebook />
-        <FaYoutube />
+        <FaInstagram className="icons" />
+        <FaTwitter className="icons" />
+        <FaLinkedin className="icons" />
+        <FaFacebook className="icons" />
+        <FaYoutube className="icons" />
       </div>
       <p>12B Admiralty, Lekki. Lagos, Nigeria</p>
       <p>
@@ -25,19 +25,19 @@ function Footer() {
       <div>
         <ul>
           <li>
-            <a href="">About Us</a>
+            <a href="#">About Us</a>
           </li>
           <li>
-            <a href="">Support Desk</a>
+            <a href="#">Support Desk</a>
           </li>
           <li>
-            <a href="">Privacy Policy</a>
+            <a href="#">Privacy Policy</a>
           </li>
           <li>
-            <a href="">Earning Disclaimer</a>
+            <a href="#">Earning Disclaimer</a>
           </li>
           <li>
-            <a href="">Unsubscribe</a>
+            <a href="#">Unsubscribe</a>
           </li>
         </ul>
       </div>
