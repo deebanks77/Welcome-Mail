@@ -19,9 +19,7 @@ function Footer() {
         <FaYoutube className="icons" />
       </div>
       <p>12B Admiralty, Lekki. Lagos, Nigeria</p>
-      <p>
-        CopyKart is a trademark and/or registered trademark of Artculture BMC
-      </p>
+      <p>CopyKart is a trademark and/or registered trademark of XCOD Ltd</p>
       <div>
         <ul>
           <li>

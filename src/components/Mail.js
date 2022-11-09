@@ -1,6 +1,6 @@
 import React from "react";
-import introverseIcon from "../images/introverseLogo.png";
-import flowerIcon from "../images/flower.png";
+import introverseIcon from "../images/introverseLogo.svg";
+import flowerIcon from "../images/flower.svg";
 import arrow from "../images/arrow.png";
 import Footer from "./Footer";
 
@@ -47,7 +47,7 @@ function Mail() {
       </div>
       <div className="Ps">
         <p>PS: Want to get a head start?</p>
-        <button>
+        <button className="white">
           Create your first logo/intro video here
           <img src={arrow} alt="arrow" className="arrow" />
         </button>
